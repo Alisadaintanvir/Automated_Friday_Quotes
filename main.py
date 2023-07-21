@@ -4,9 +4,9 @@ import random
 
 
 def send_mail(message):
-    my_email = "freebotpubg@gmail.com"
-    password = 'fginijsbvvdgqxma'
-    receiver_email = "alisadaintanvir@gmail.com"
+    my_email = [YOUR_MAIL]
+    password = [YOUR_PASSWORD]
+    receiver_email = [RECIEVER_MAIL]
 
     try:
         with smtplib.SMTP("smtp.gmail.com") as connection:
