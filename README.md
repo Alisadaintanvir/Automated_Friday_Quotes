@@ -21,8 +21,7 @@ Before running the script, make sure you have the following:
 
 To run the script, execute the following command in your terminal or command prompt:
 
-```bash
-python main.py
+`python main.py`
 
 ## How it Works
 The script checks the current day of the week using the datetime module.
